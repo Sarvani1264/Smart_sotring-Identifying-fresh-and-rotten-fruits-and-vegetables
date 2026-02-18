@@ -1,0 +1,1 @@
+# Smart_sotring-Identifying-fresh-and-rotten-fruits-and-vegetables
