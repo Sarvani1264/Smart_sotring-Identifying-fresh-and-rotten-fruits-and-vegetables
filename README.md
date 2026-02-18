@@ -64,6 +64,9 @@ Run the training notebook if needed.
 # Features
 
 ✔ Upload image through web interface
+
 ✔ Automatic image preprocessing
+
 ✔ Real-time freshness prediction
+
 ✔ Clean and simple user interface
